@@ -1,0 +1,23 @@
+*{
+margin 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+font-size: 2.2dvw;
+max-width: 200;
+text-align: center;
+background-color: #1163e8;
+color: white;
+}
+
+h2 {
+color: rgb(4, 249, 86);
+border-bottom: #18e811;
+border-bottom: 2px solid;
+}
+
+ul li {
+color: rgb(4, 249, 86);
+}
